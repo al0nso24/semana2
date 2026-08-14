@@ -8,7 +8,7 @@ export default function Perfil() {
             <Text style={styles.name}>Juan Pérez</Text>
             <Text style={styles.job}>Ingeniero de Sistemas</Text>
             <Text style={styles.desc}>
-                Desarrollador móvil con experiencia en React Native y aplicaciones empresariales.
+                Desarrollador móvil con experiencia en React Native y en aplicaciones empresariales.
             </Text>
         </View>
     )
